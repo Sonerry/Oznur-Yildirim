@@ -129,7 +129,7 @@ img {
 }
 /* Ensure all images have the same height */
 .swaying-image {
-    height: 200px; /* Adjust this value to your desired height */
+    height: 270px; /* Adjust this value to your desired height */
     width: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Ensures the image covers the area without distortion */
     border-radius: 10px; /* Optional: Adds rounded corners */
